@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: `Tiki's document`,
   tagline: 'Tiki',
-  url: 'https://tiki.vn',
+  url: 'https://bichp.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Tiki', // Usually your GitHub org/user name.
+  projectName: 'bichp.github.io', // Usually your repo name.
 
   presets: [
     [
